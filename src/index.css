@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  background: #0033aa; /* Old browsers */
+  background: linear-gradient(135deg, #0033aa 0%,#3366cc 21%,#00aadd 51%,#3366cc 79%,#3366cc 79%,#0033aa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  height: 100%;
+  height: 100%;
+}
+
+.App-logo {
+  height: 60px;
+}
+
+.App-container {
+  background: white;
+  margin: 5%;
+  padding: 1%;
+  /* max-width: 80%; */
+}
+
+.App-header {
+  height: 80px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+#root {
+  
+}
